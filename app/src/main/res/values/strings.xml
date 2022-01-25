@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="lblEmail">Your Email</string>
+    <string name="loginTitle">Login</string>
+    <string name="registerTitle">Register</string>
+    <string name="lblFullname">Full Name</string>
+    <string name="lblDob">Day of Birth</string>
+    <string name="lblSex">Sex</string>
+    <string name="lblPassword">Password</string>
+    <string name="loginBtn">Log in</string>
+    <string name="registerBtn">Register</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="hyperLink">Don\'t have an account? Register here</string>
+    <string name="hyperLinkRegister">You have an account? Login here</string>
+
+</resources>
